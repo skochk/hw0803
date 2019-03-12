@@ -1,14 +1,12 @@
 .block{
     background-color: #87fbff;
-    height: 150px;
     width: 350px;
     border-width: 7px;
     border-left: solid blue 10px;
     text-align: center; 
     position: relative;
-}
 
-.text{
-    vertical-align: middle;
-    padding: 30px;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
